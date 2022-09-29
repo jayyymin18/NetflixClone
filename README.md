@@ -1,1 +1,1 @@
-# NetflxClone
+# NetflixClone
